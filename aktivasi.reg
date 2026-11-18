@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CURRENT_USER\Software\NawaSoft\Activation]
+"ProductCode"="NAWASOFT"
+"ApiUrl"="https://nawasoft.biz.id/activation-api"
+"LicenseStatus"="PENDING"
+"LicenseCode"=""
